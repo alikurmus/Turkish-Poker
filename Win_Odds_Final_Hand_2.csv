@@ -1,0 +1,53 @@
+Final_Hand_1  ,Final_Hand_2,perc
+Pair          ,A           ,0.10966250085891503
+Pair          ,K           ,0.06574163982187743
+Pair          ,Q           ,0.0
+Pair          ,J           ,0.0
+Pair          ,T           ,0.0
+Pair          ,9           ,0.0
+Pair          ,8           ,0.0
+Pair          ,7           ,0.0
+Two Pairs     ,A           ,0.3661500452411921
+Two Pairs     ,K           ,0.2507579164561046
+Two Pairs     ,Q           ,0.17683493308559306
+Two Pairs     ,J           ,0.13847770832183118
+Two Pairs     ,T           ,0.11604587836670353
+Two Pairs     ,9           ,0.09933119948875875
+Two Pairs     ,8           ,0.0901687678472954
+Straight      ,A           ,0.517879358439732
+Straight      ,K           ,0.49430922563268753
+Straight      ,Q           ,0.47332728728201284
+Straight      ,J           ,0.4490317007153939
+Straight      ,T           ,0.4283420992720671
+Trips         ,A           ,0.8073444815179988
+Trips         ,K           ,0.7447506139535502
+Trips         ,Q           ,0.6525233533831091
+Trips         ,J           ,0.5985181906299623
+Trips         ,T           ,0.5514849973971322
+Trips         ,9           ,0.512627003098477
+Trips         ,8           ,0.47682022922651535
+Trips         ,7           ,0.44272045547928246
+Full House    ,A           ,0.944715295267316
+Full House    ,K           ,0.9194017554192879
+Full House    ,Q           ,0.8912763312462221
+Full House    ,J           ,0.8670837737129985
+Full House    ,T           ,0.8413878898741242
+Full House    ,9           ,0.8209415653533676
+Full House    ,8           ,0.7996023089248827
+Full House    ,7           ,0.7795838851757169
+Flush         ,A           ,0.9659609220907298
+Flush         ,K           ,0.9540018053257109
+Flush         ,Q           ,0.9512404895798875
+Four of a kind,A           ,0.9990639834191348
+Four of a kind,K           ,0.9931578415180828
+Four of a kind,Q           ,0.9860916643330533
+Four of a kind,J           ,0.9799439252336448
+Four of a kind,T           ,0.9739809357766871
+Four of a kind,9           ,0.9691233367934321
+Four of a kind,8           ,0.9624720357941835
+Four of a kind,7           ,0.9572996094476474
+Straight Flush,A           ,1.0
+Straight Flush,K           ,0.9996709443896018
+Straight Flush,Q           ,0.9990284974093264
+Straight Flush,J           ,0.9993708713431897
+Straight Flush,T           ,0.9982399530654151

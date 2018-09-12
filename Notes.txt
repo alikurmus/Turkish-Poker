@@ -1,0 +1,11 @@
+Describe program
+Ask for the game stage pre/post draw
+Ask for the pot
+Ask for hand as numeral and suits
+Evaluate hand
+Return how much to bet or fold
+If pre draw suggest discarded cards
+Ask for another game
+
+
+

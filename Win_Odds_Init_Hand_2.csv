@@ -1,0 +1,64 @@
+Initial_Hand_1,Initial_Hand_2                 ,perc
+High Card     ,(Almost flush)                 ,0.15914949932299596
+High Card     ,(Full open ended straight)     ,0.12992202373571227
+High Card     ,(Keep the highest)             ,0.10063349929647479
+High Card     ,(Long shot flush)              ,0.07322100267209083
+High Card     ,(Gut shot straight)            ,0.07057956325439971
+High Card     ,(Full open ended long straight),0.06942786298098999
+High Card     ,(Hail Mary flush)              ,0.08404163018856073
+High Card     ,(Half gut shot long straight)  ,0.06477291079727959
+High Card     ,(Full gut shot long straight)  ,0.06772883038882094
+High Card     ,(Keep the highest non A or K)  ,0.08771020502188435
+High Card     ,(Two high cards)               ,0.08998725774674052
+Pair          ,A                              ,0.34642431277726426
+Pair          ,K                              ,0.2874463549581572
+Pair          ,Q                              ,0.19763692097130903
+Pair          ,J                              ,0.18147002682001595
+Pair          ,T                              ,0.1693619950110472
+Pair          ,9                              ,0.16128568936611865
+Pair          ,8                              ,0.15303089282756335
+Pair          ,7                              ,0.14594735803319678
+Two Pairs     ,A                              ,0.45567752435892545
+Two Pairs     ,K                              ,0.3588068030594223
+Two Pairs     ,Q                              ,0.30249424189116053
+Two Pairs     ,J                              ,0.2637864957643146
+Two Pairs     ,T                              ,0.24100557983492857
+Two Pairs     ,9                              ,0.22245052889715902
+Two Pairs     ,8                              ,0.21096224116930573
+Straight      ,A                              ,0.5291399926304751
+Straight      ,K                              ,0.5083448504392665
+Straight      ,Q                              ,0.4886366397498927
+Straight      ,J                              ,0.46402737839698677
+Straight      ,T                              ,0.44028860005568626
+Trips         ,A                              ,0.8336218857823455
+Trips         ,K                              ,0.7793895214164527
+Trips         ,Q                              ,0.7310447440676147
+Trips         ,J                              ,0.682918593014189
+Trips         ,T                              ,0.6415444229172433
+Trips         ,9                              ,0.6023982135756019
+Trips         ,8                              ,0.5679477032756008
+Trips         ,7                              ,0.5338057819882011
+Full House    ,A                              ,0.9439994138621599
+Full House    ,K                              ,0.9164529397532059
+Full House    ,Q                              ,0.8937535477183544
+Full House    ,J                              ,0.8705113720096281
+Full House    ,T                              ,0.8460277458344547
+Full House    ,9                              ,0.8245424395037465
+Full House    ,8                              ,0.7986367439342488
+Full House    ,7                              ,0.7830505959740838
+Flush         ,A                              ,0.96810849304889
+Flush         ,K                              ,0.9494690589527646
+Flush         ,Q                              ,0.9479544277576385
+Four of a kind,A                              ,0.9988075719183187
+Four of a kind,K                              ,0.994155464640561
+Four of a kind,Q                              ,0.9856430406528638
+Four of a kind,J                              ,0.9805738194859533
+Four of a kind,T                              ,0.9731563421828908
+Four of a kind,9                              ,0.969778174780408
+Four of a kind,8                              ,0.9636761487964989
+Four of a kind,7                              ,0.9603776283793448
+Straight Flush,A                              ,1.0
+Straight Flush,K                              ,1.0
+Straight Flush,Q                              ,0.9989764585465711
+Straight Flush,J                              ,1.0
+Straight Flush,T                              ,0.9979591836734694
